@@ -17,7 +17,7 @@
 
 This project is an **interactive Sales Dashboard** built entirely in **Microsoft Excel** using Pivot Tables, Pivot Charts, Slicers, and Dashboard Design techniques.
 
-The dashboard enables users to analyze sales performance across different years, markets, product categories, and sub-categories. It transforms raw sales data into meaningful business insights through dynamic visualizations.
+The dashboard enables users to analyse sales performance across different years, markets, product categories, and sub-categories. It transforms raw sales data into meaningful business insights through dynamic visualisations.
 
 Whether you're a business analyst, recruiter, or data enthusiast, this project demonstrates practical Excel dashboarding skills used in real-world reporting.
 
@@ -26,7 +26,7 @@ Whether you're a business analyst, recruiter, or data enthusiast, this project d
 # 🖼️ Dashboard Preview
 
 <p align="center">
-<img src="dashboard.png" alt="Global Superstore Sales Dashboard" width="100%">
+<img src="Screenshot%202026-06-29%20171131.png" alt="Global Superstore Sales Dashboard" width="100%">
 </p>
 
 ---
@@ -146,20 +146,6 @@ The dataset contains information about:
 - Profit
 - Discounts
 - Shipping
-
----
-
-# 👨‍💻 Author
-
-**Raghav Kumar**
-
-Aspiring Data Analyst passionate about transforming raw data into actionable business insights.
-
-### Connect with me
-
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
-- 🌐 Portfolio: *(Optional)*
-- 📧 Email: *(Optional)*
 
 ---
 
